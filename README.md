@@ -1,4 +1,4 @@
-# CERT.AZ IOC Enricher
+# IOC Enricher
 
 A command-line tool for scanning IP indicators of compromise (IOCs) against multiple public threat intelligence sources.
 
