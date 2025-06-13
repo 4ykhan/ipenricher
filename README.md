@@ -1,6 +1,6 @@
 # IOC Enricher
 
-A command-line tool for scanning IP indicators of compromise (IOCs) against multiple public threat intelligence sources.
+A command-line tool for checking IP indicators of compromise (IOCs) against multiple public threat intelligence sources.
 
 ### Supported:
 - [VirusTotal](https://www.virustotal.com/)
